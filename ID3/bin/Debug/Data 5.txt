@@ -1,0 +1,11 @@
+Gender	Car Ownership	Travel Cost	Income Level	Transportation
+Male	0	Cheap	Low	1
+Male	1	Cheap	Medium	1
+Female	1	Cheap	Medium	0
+Female	0	Cheap	Low	1
+Male	1	Cheap	Medium	1
+Male	0	Standard	Medium	0
+Female	1	Standard	Medium	0
+Female	1	Expensive	High	1
+Male	2	Expensive	Medium	1
+Female	2	Expensive	High	1
